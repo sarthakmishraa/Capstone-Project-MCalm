@@ -1,0 +1,176 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <meta name="description" content="">
+        <meta name="author" content="">
+
+        <title>Fragrance Blog</title>
+
+        <!-- CSS FILES -->
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+        <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400;700;900&display=swap" rel="stylesheet">
+        
+        
+        <link href="{{ url_for('static',filename='styles/bootstrap.min.css') }}" rel="stylesheet">
+        <link href="{{ url_for('static',filename='styles/bootstrap-icons.css') }}" rel="stylesheet">
+
+        <link href="{{ url_for('static',filename='styles/magnific-popup.css') }}" rel="stylesheet">
+
+        <link href="{{ url_for('static',filename='styles/aos.css') }}" rel="stylesheet">
+
+        <link href="{{ url_for('static',filename='styles/templatemo-nomad-force.css') }}" rel="stylesheet">
+        
+<!--
+
+TemplateMo 567 Nomad Force
+
+https://templatemo.com/tm-567-nomad-force
+
+-->
+    </head>
+    
+    <body>
+    
+        <main>
+
+            <nav class="navbar navbar-expand-lg bg-light shadow-lg">
+                <div class="container">
+                    <a class="navbar-brand" href="index.html">
+                        <strong>MCalm</strong>
+                    </a>
+
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+
+                    <div class="collapse navbar-collapse" id="navbarNav">
+                        <ul class="navbar-nav mx-auto">
+                            <li class="nav-item active">
+                                <a class="nav-link" href="{{ url_for('gameof21') }}">Game of 21</a>
+                            </li>
+
+                            <li class="nav-item">
+                                <a class="nav-link" href="{{ url_for('sentimentRecognition') }}">Emotion Recognition</a>
+                            </li>
+
+                            <li class="nav-item">
+                                <a class="nav-link" href="{{ url_for('songrecommendation') }}">Play Music</a>
+                            </li>
+
+                            <li class="nav-item">
+                                <a class="nav-link" href="{{ url_for('chatbot') }}">Doudou's Chat</a>
+                            </li>
+
+                            <li class="nav-item">
+                                <a class="nav-link" href="{{ url_for('psychometrictest') }}">Psychometric Test</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="{{ url_for('fragnance') }}">Fragrance Blog</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </nav>
+
+            <section class="news-detail section-padding">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-8 col-10 mx-auto">
+                            <h2 class="mb-3" data-aos="fade-up">Effects of odor on emotion</h2>
+
+                            <p class="me-4" data-aos="fade-up">The sense of smell is found widely in the animal kingdom. Human and animal studies show that odor perception is modulated by experience and/or physiological state (such as hunger), and that some odors can arouse emotion, and can lead to the recall of emotional memories. Further, odors can influence psychological and physiological states. Individual odorants are mapped via gene-specified receptors to corresponding glomeruli in the olfactory bulb, which directly projects to the piriform cortex and the amygdala without a thalamic relay. The odors to which a glomerulus responds reflect the chemical structure of the odorant. The piriform cortex and the amygdala both project to the orbitofrontal cortex (OFC) which with the amygdala is involved in emotion and associative learning, and to the entorhinal/hippocampal system which is involved in long-term memory including episodic memory. Evidence that some odors can modulate emotion and cognition is described, and the possible implications for the treatment of psychological problems, for example in reducing the effects of stress, are considered.</p>
+
+                            <p data-aos="fade-up">Odor perception can be influenced by learning and memory, for example exposure to wine or beer significantly improves discrimination. The piriform cortex plays a role in odor perception by recoding odor mixtures in such a way that some neurons can respond to an odorant mixture but not to the components. In particular, the anterior piriform cortex (aPC) encodes the identity of mixtures of odorants separately from the components, while the posterior piriform cortex (pPC) encodes the similarity between mixtures and their components. The implication is that the aPC enables complex mixtures to be represented separately from their components and from each other, while the pPC may enable generalization to similar odors. Another aspect of odor perception is short or long term habituation. aPC neurons adapt to a repeated or prolonged odor rapidly, which facilitates segmentation of an odor from the background odor, that is, aPC neurons detect a new odor against an adapted background odor. This neurophysiological adaptation may be useful in drawing attention to harmful chemicals in adapted background odor environments.</p>
+
+                            <div class="clearfix my-4 mt-lg-0 mt-5">
+                                
+                                <div class="col-md-6 float-md-end mb-3 ms-md-3" data-aos="fade-up">
+                                    
+                                    <figure class="figure">
+                                        <img src="{{url_for('static', filename='images/frag_img1.png')}}" class="img-fluid news-image" alt="">
+                                    </figure>
+                                </div>
+                                  <p data-aos="fade-up">
+                                    Physiological state influences the perception of odor. For example, the odor of a food will be pleasant during hunger, and its pleasantness will decline as the food is being eaten to satiety. This can be a sensory-specific decrease in the pleasantness of the odor of a food eaten to satiety. In addition, the perception of odors can lead to physiological responses, such as salivation and the release of insulin. Thus physiological state and the effects of odors can interact to influence motivation, for example whether to eat or not. In addition, odors influence autonomic responses, for example pleasant and novel odors can decrease heart rate, while the more sympathetically arousing the odor, the more the skin conductance response increases. Thus, odor perception is neurophysiologically modulated by experience to facilitate identification of individual odorants including odor mixtures, and to filter out an odor by adaptation, and is also modified by physiological states such as hunger. 
+                                  </p>
+                                  <p data-aos="fade-up">
+                                    There is evidence that odors elicit emotion and are linked to emotional memory. Responses to odors can include emotions, which can usefully be defined as states elicited by stimuli that are rewards and punishers. For examples, a predator’s odor can cause a prey to escape from it, while newborn babies move towards the breast odor of their own mother. Different odors can elicit individual affective responses which may be pleasant or unpleasant. Emotionally arousing odors may influence cognition and emotion. Some odors facilitate the recognition of disgust face expressions and impair working memory while others reduce anger or improve mood. In addition, some affective odors modulate psychological and physiological state. Komori and colleagues reported effects of citrus fragrance on the improvement of psychological states and immune function of patients with depression. Green odor emanating from oak leaves is necessary for polyphemus moths to mate, and elicits pleasantness from humans. In addition, green odor attenuates the stress-induced elevations of plasma adrenocorticotropic hormone (ACTH), body temperature, and skin-barrier disruption in rats. Similarly, rose essential oil inhibits stress-induced skin-barrier disruption and elevation of salivary cortisol in humans, and orange and lavender reduce the anxiety of patients in a dental office.
+
+Odors can become associated by learning with reinforcers such as taste in the OFC and amygdala, and this provides a way for previously neutral odors to produce emotional responses. Patients frightened by dental treatment respond negatively to the smell of eugenol which is used for treatment. Odor-evoked autobiographical memory is powerful in reminding humans about past emotional experiences. This odor associative memory and learning begins early in life. For examples, the foods eaten by a pregnant mother can influence the odors liked by her offspring, and neonatal rats at ages of less than 3 days learn the odor associated with aversive or rewarded outcomes. Further, this associative learning regulates behavior, that is, when animals have learned associations between an odor CS and a negative outcome such as foot shock unconditioned stimulus (US), they try to avoid the CS associated with the negative US, or show fear expressions such as freezing.
+
+The amygdala, OFC and hippocampus are involved in the process of odor-elicited emotion and odor-associated emotional memory. Human imaging studies have demonstrated that the amygdala and OFC are activated by unpleasant or pleasant odors, consistent with their functions in emotion. Consistently, activations of the human OFC elicited by odors correlate with the subjective pleasantness or unpleasantness of the odors. Amygdala lesions impair learned odor preferences in infant rats while hippocampus and subiculum lesions in rats produce a deficit in social learning of an odor association. In humans, the amygdala and PFC of patients with posttraumatic stress disorder (PTSD) are activated by exposure to the odor related to the traumatic memory while the hippocampus and PFC are activated by odor cues during autobiographical memory retrieval process.
+
+The odor mapping performed in the aPC may set up representations of odors that are separate, even when considering odorant mixtures and their components. This pattern separation of the representations of even odorant mixtures using non-linear remapping is useful for the pattern association learning of odors to taste and visual representations performed in the OFC and amygdala to represent the reward/emotional value of the odor object, and for the autoassociative formation of episodic memory performed in the hippocampus.
+                                  </p>
+                                  <figure class="figure">
+                                        <img src="{{url_for('static', filename='images/frag_img2.jpg')}}" class="img-fluid news-image" alt="">
+                                    </figure>
+                                  <p data-aos="fade-up">Human and complementary studies in non-human animals provide evidence that odors evoke emotion and autonomic state via pathways to the amygdala and OFC, and become incorporated into episodic memory via the hippocampus.
+
+                                    In addition, it is suggested that some odorants which elicit emotion may have potential to treat patients with psychological problem such as depression.</p>
+                                    <h6 class="mb-3" data-aos="fade-up">Reference - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3794443/</h6>
+                            </div>
+                    </div>
+                </div>
+            </section>
+
+        </main>
+
+        <footer class="site-footer">
+            <div class="container">
+                <div class="row">
+
+                    <div class="col-12">
+                        <h5 class="text-white">
+                            <i class="bi-geo-alt-fill me-2"></i>
+                            Indore(MP), India
+                        </h5>
+
+                        <a href="mailto:info@company.com" class="custom-link mt-3 mb-5">
+                            msarthak785@gmail.com
+                        </a>
+                    </div>
+
+                    <div class="col-6">
+                        <p class="copyright-text mb-0">Copyright © MCalm Team 2022 
+                        
+                        <br><br>Design: <a href="https://templatemo.com/page/1" target="_parent">MCalm</a></p>
+                    
+                    </div>
+
+                    <div class="col-lg-3 col-5 ms-auto">
+                        <ul class="social-icon">
+                            <li><a href="#" class="social-icon-link bi-facebook"></a></li>
+
+                            <li><a href="#" class="social-icon-link bi-twitter"></a></li>
+
+                            <li><a href="#" class="social-icon-link bi-whatsapp"></a></li>
+
+                            <li><a href="#" class="social-icon-link bi-instagram"></a></li>
+
+                            <li><a href="#" class="social-icon-link bi-youtube"></a></li>
+                        </ul>
+                    </div>
+
+                </div>
+            </section>
+        </footer>
+
+        <!-- JAVASCRIPT FILES -->
+        <script src="{{url_for('static', filename='javascript/jquery.min.js')}}"></script>
+        <script src="{{url_for('static', filename='javascript/bootstrap.bundle.min.js')}}"></script>
+        <script src="{{url_for('static', filename='javascript/jquery.sticky.js')}}"></script>
+        <script src="{{url_for('static', filename='javascript/aos.js')}}"></script>
+        <script src="{{url_for('static', filename='javascript/jquery.magnific-popup.min.js')}}"></script>
+        <script src="{{url_for('static', filename='javascript/magnific-popup-options.js')}}"></script>
+        <script src="{{url_for('static', filename='javascript/scrollspy.min.js')}}"></script>
+        <script src="{{url_for('static', filename='javascript/custom.js')}}"></script>
+
+    </body>
+</html>

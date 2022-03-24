@@ -1,0 +1,65 @@
+<html lang="en">
+          <head>
+            <meta charset="utf-8">
+          
+            <title>Game of 21</title>
+            <meta name="description" content="Figma htmlGenerator">
+            <meta name="author" content="htmlGenerator">
+            <link href="https://fonts.googleapis.com/css?family=Raleway&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Poppins&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
+
+            <link rel="stylesheet" href="/static/styles/stylesGameof21Index.css">
+            
+            <style>
+              /*
+                Figma Background for illustrative/preview purposes only.
+                You can remove this style tag with no consequence
+              */
+              body {background: #E5E5E5; }
+            </style>
+          
+          </head>
+          
+          <body>
+            <div class=e2_2><span  class="e2_4">Rules</span>
+              
+              <span  class="e2_5">Chance</span>
+              <span  class="e2_6">Number</span>
+
+              <form action="/orderPage" method="post">
+              <div  class="e2_10"><input type="text" style="height:50px; width:200px; font-size:28px;" name="a"></div>
+              
+              <div  class="e2_11"><input type="text" style="height:50px; width:200px; font-size:28px;" name="b"></div>
+
+              <div  class="e2_12"></div>
+              <span  class="e2_13">GAME OF 21</span>
+              
+              <div  class="e2_14"></div>
+              <div  class="e3_245"></div>
+              <div  class="e3_246"></div>
+              <div  class="e2_15"></div>
+
+              <span  class="e2_17"><a href="{{ url_for('gameof21') }}"><button type="button" style="font-size: 28px; border-radius: 8%;">Home</button></a></span>
+              
+              <span  class="e2_18"><a href="{{ url_for('gameof21about') }}"><button type="button" style="font-size: 28px; border-radius: 8%;">About</button></a></span>
+              
+              <span  class="e2_19">Capstone Project 2021-2022</span>
+              <span  class="e3_6">This is a two player game, second player is Dwight (computer).<br>
+Each player will be having alternate chance to enter 1, 2 or 3 numbers based on his/her choice.<br>
+Numbers should be in sequence.<br>
+Player who gets 21 will lose.<br>
+Enter “f” in chance box to go first and “s” to go second.<br>
+<h2>Chance : {{final}}</h2>
+<h2>Result : {{final2}}</h2>
+</span>
+
+<span  class="e3_247"><input type="submit" style="font-size: 28px; border-radius: 50%;" value="Go!"></span>
+
+<span  class="e3_248"><input type="submit" style="font-size: 28px; border-radius: 50%;" value="Go!"></span></form>
+
+<div  class="e3_252"></div><span  class="e3_253">Game of 21</span>
+<span  class="e3_254">This module is a part of Capstone project ‘MCalm’.</span>
+<span  class="e3_255">© 2021 | All rights reserved to MCalm Team 51</span></div>
+          </body>
+          </html>

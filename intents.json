@@ -1,0 +1,129 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hi there",
+        "Hey",
+        "Hey there",
+        "How are you",
+        "Is anyone there?",
+        "Hello",
+        "Hello there",
+        "Wassup",
+        "Sup",
+        "How it's going?",
+        "Good day"
+      ],
+      "responses": [
+        "Hey :-)",
+        "Hi, Doudou Schrute here",
+        "Hi there, what can I do for you?",
+        "Hi there, how can I help?",
+        "Hello, I hope you are in good health",
+        "Hi buddy",
+        "Hey buddy",
+        "Hello buddy"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["Bye", "See you later", "Goodbye"],
+      "responses": [
+        "See you later, thanks for visiting",
+        "Have a nice day",
+        "Bye! Come back again soon."
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": ["Thanks", "Thank you", "That's helpful", "Thank's a lot!", "Big Thanks"],
+      "responses": ["Happy to help!", "Any time!", "My pleasure", "Your Welcome","Have a nice day"]
+    },
+    {
+      "tag": "items",
+      "patterns": [
+        "What do you do?"
+      ],
+      "responses": [
+        "I can tell you jokes.",
+        "I am here to make you laugh."
+      ]
+    },
+    {
+      "tag": "payments",
+      "patterns": [
+        "Why are you here?"
+      ],
+      "responses": [
+        "I am here to enlighten your mood",
+        "I can tell you pick up lines."
+      ]
+    },
+    {
+      "tag": "flirt",
+      "patterns": [
+        "Impress me",
+        "Can you flirt with me?",
+        "Pick up lines",
+        "Nice one",
+        "Good one",
+        "do that",
+        "aw",
+        "aww",
+        "cute one",
+        "haww"
+      ],
+      "responses": [
+        "Do you hear the glitch on spotify? \nThey forgot to list you as the hottest single.",
+        "Are you my mom's belt coz you hit different.",
+        "If earth didnt have gravity. \nI would still fall for you.",
+        "Are you a bank loan? \nCoz you got my interest.",
+        "Are you http ? Coz without you i'm just ://",
+        "Are you Kim- Jong un? \nCoz you make me speechless.",
+        "You look familiar did we have a class before? \nI could swear we had chemistry.",
+        "Is your name Google? \nCoz you have everything I have been searching for.",
+        "I saw you partner today, went to hug \nand bumped into the mirror",
+        "Are you an exam paper? \nCoz I forgot everything when I look at you.",
+        "Are you my first website? \nCoz youre not very responsive.",
+        "Are you trash? \nCoz I wanna take you out."
+      ]
+    },
+    {
+      "tag": "funny",
+      "patterns": [
+        "Tell me a joke!",
+        "Tell me something funny!",
+        "Do you know a joke?",
+        "Make me laugh.",
+        "haha",
+        "lol",
+        "lmao",
+        "xd",
+        "Thats funny",
+        "go on",
+        "oooooh",
+        "ooooo",
+        "oooo",
+        "dark humour",
+        "dark",
+        "thats dark"
+      ],
+      "responses": [
+        "What did the buffalo say when his son left for college?\n Bison.",
+        "What's the advantage of elevators?\n Fat people can also commit suicide.",
+        "How do you kill a blind kid?\n Give him a gun and tell him it's a hairdryer.",
+        "What do you call the picture when an orphan takes a selfie? \nA family photo.",
+        "What do you call an African who isn't hungry? \nDead.",
+        "What do you call a shooting range in America? \nA school.",
+        "Why are New Yorker's bad at chess?\n Coz they already lost two towers.",
+        "What do you call a rich person in Africa? \nA tourist.",
+        "Why are Americans stupid? \nCoz they shoot the ones who go to school.",
+        "Why dont school libraries have “how to commit suicide” \nbooks anymore ? Kids don't return them.",
+        "'Im sorry' and 'I apologize' mean the same thing. \nExcept at a funeral.",
+        "An orphan made a website, \nit didn't had a homepage."
+      ]
+    }
+  ]
+}
