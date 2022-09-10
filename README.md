@@ -9,5 +9,5 @@ Design Diagram
 
 ![Design Diagram](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/design_diag.JPG)
 
-Architecture Diagram (MCalm)
+(MCalm)
 More details will be added in future
