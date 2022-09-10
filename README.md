@@ -7,7 +7,7 @@ Architecture Diagram
 
 Design Diagram
 
-![Design Diagram](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/capstone review 3 design_diag.JPG)
+![Design Diagram](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/design_diag.JPG)
 
 Architecture Diagram (MCalm)
 More details will be added in future
