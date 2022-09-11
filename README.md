@@ -15,13 +15,13 @@ Project Organisation
 
 Home Page
 
-![Home Page](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/snip_home.jpg)
-![Home Page](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/snip_home2.jpg)
-![Home Page](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/snip_home3.jpg)
+![Home Page](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/snip_home.JPG)
+![Home Page](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/snip_home2.JPG)
+![Home Page](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/snip_home3.JPG)
 
 Game of 21 (Module 1)
 
-![Module 1](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/snip_game_of_21.jpg)
+![Module 1](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/snip_game_of_21.JPG)
 
 
 (MCalm)
