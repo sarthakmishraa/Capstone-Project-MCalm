@@ -25,7 +25,7 @@ Game of 21 (Module 1)
 
 Sentiment Recognition (Module 2)
 
-![Module 1](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/snip_song.JPG)
+![Module 1](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/snip_emotion.JPG)
 
 Soothing songs (Module 3)
 
