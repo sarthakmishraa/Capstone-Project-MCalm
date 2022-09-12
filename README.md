@@ -23,6 +23,14 @@ Game of 21 (Module 1)
 
 ![Module 1](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/snip_game_of_21.JPG)
 
+Sentiment Recognition (Module 2)
+
+![Module 1](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/snip_song.JPG)
+
+Soothing songs (Module 3)
+
+![Module 1](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/snip_song.JPG)
+
 
 (MCalm)
 More details will be added in future
