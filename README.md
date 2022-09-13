@@ -25,11 +25,19 @@ Game of 21 (Module 1)
 
 Sentiment Recognition (Module 2)
 
-![Module 1](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/snip_emotion.JPG)
+Facial Emotion Recognition (FER)
+![Module 2](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/detected_baby1.JPG)
+![Module 2](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/detected_ishan.JPG)
+![Module 2](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/detected_johncena1.JPG)
+![Module 2](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/detected_kevin.JPG)
+![Module 2](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/detected_south_actor.JPG)
+
+Sentiment Recognised (with scores)
+![Module 2](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/snip_emotion.JPG)
 
 Soothing songs (Module 3)
 
-![Module 1](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/snip_song.JPG)
+![Module 3](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/snip_song.JPG)
 
 
 (MCalm)
