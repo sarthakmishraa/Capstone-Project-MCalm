@@ -39,6 +39,14 @@ Soothing songs (Module 3)
 
 ![Module 3](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/snip_song.JPG)
 
+Doudou's Chatbot (Module 4)
+
+![Module 4](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/snip_chatbot.JPG)
+
+Psychometric Test (Module 5)
+
+![Module 5](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/snip_psychometric_test.JPG)
+![Module 5](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/snip_psychometric_test2.JPG)
 
 (MCalm)
 More details will be added in future
