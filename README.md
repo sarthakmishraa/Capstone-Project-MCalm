@@ -48,5 +48,13 @@ Psychometric Test (Module 5)
 ![Module 5](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/snip_psychometric_test.JPG)
 ![Module 5](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/snip_psychometric_test2.JPG)
 
+RESULTS
+
+Game of 21 (Module 1)
+![Module 1](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/snip_game_of_21_result.JPG)
+![Module 1](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/snip_game_of_21_result2.JPG)
+![Module 1](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/snip_game_of_21_result3.JPG)
+![Module 1](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/snip_game_of_21_result4.JPG)
+
 (MCalm)
 More details will be added in future
