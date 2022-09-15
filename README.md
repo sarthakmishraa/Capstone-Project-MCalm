@@ -1,6 +1,12 @@
 # MCalm
 Capstone Project DSN-4099
 
+Our project “MCalm” would detect people’s mood by using their facial expressions as well as by
+asking a few questions on a scale of 5, which would help people get a wider picture of their mood.
+Next comes the task to enlighten their mood by playing games , listening to jokes by bot and at last
+listening to soothing music.
+
+
 Architecture Diagram
 
 ![Architecture Diagram](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/capstone_review3_arch_diag.JPG)
