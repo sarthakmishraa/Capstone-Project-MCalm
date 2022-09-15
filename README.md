@@ -59,5 +59,11 @@ Game of 21 (Module 1)
 Soothing Songs (Module 3)
 ![Module 3](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/snip_songResult.JPG)
 
+Doudou's Chatbot (Module 4)
+![Module 4](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/snip_chatbotResult.JPG)
+
+Psychometric Test (Module 5)
+![Module 5](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/snip_psychometricResult.JPG)
+
 (MCalm)
 More details will be added in future
