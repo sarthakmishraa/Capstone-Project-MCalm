@@ -66,9 +66,9 @@ Psychometric Test (Module 5)
 ![Module 5](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/snip_psychometricResult.JPG)
 
 Fragrance Blog (Additional)
-![Blog](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/frag.JPG)
-![Blog](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/frag2.JPG)
-![Blog](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/frag3.JPG)
+![Blog](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/snip_frag.JPG)
+![Blog](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/snip_frag2.JPG)
+![Blog](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/snip_frag3.JPG)
 
 (MCalm)
 More details will be added in future
