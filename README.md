@@ -22,6 +22,10 @@ Module 3: subprocess, random, os
 Module 4: numpy, nltk, random, json, torch, tkinter
 Module 5: sklearn, joblib, numpy, matplotlib
 
+Project Organisation
+
+![Project Organisation](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/project_organisation.png)
+
 In today’s hectic world where people just focus to excel in their lives and that too at the cost of
 losing their peace of mind. Either that excel is their wealth or their position in offices and other
 aspects of life. In order to overcome this lost peace of mind we have come up with a solution.
@@ -44,9 +48,6 @@ Design Diagram
 
 ![Design Diagram](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/design_diag.JPG)
 
-Project Organisation
-
-![Project Organisation](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/project_organisation.png)
 
 Home Page
 
@@ -57,6 +58,12 @@ Home Page
 Game of 21 (Module 1)
 
 ![Module 1](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/snip_game_of_21.JPG)
+
+Methodology and Goal :
+
+Module 1 (Game of 21) is a two player game built on logic. Rules are simple, a player can enter one,
+two or three numbers at once. Numbers should be in a sequence. The catch is that the player who
+gets 21 loses. This game is deployed using Flask.
 
 Sentiment Recognition (Module 2)
 
