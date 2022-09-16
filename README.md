@@ -22,7 +22,19 @@ Module 3: subprocess, random, os
 Module 4: numpy, nltk, random, json, torch, tkinter
 Module 5: sklearn, joblib, numpy, matplotlib
 
+In today’s hectic world where people just focus to excel in their lives and that too at the cost of
+losing their peace of mind. Either that excel is their wealth or their position in offices and other
+aspects of life. In order to overcome this lost peace of mind we have come up with a solution.
 
+
+Objective
+
+Our main objective here is to decrease the stress or lost piece of mind of people by making an
+integrated website that would tell people about their mood/sentiments either it is happy, sad and
+many more by detecting their faces as well as taking answers from the people of some questions on a
+scale of 5, our next objective is to improve people’s mood by playing a relaxing game of 21 and to
+let people have an interaction with a chatbot that would try to lighten people’s mood by telling some
+jokes to them and at last to play some soothing music for the person using the website.
 
 Architecture Diagram
 
