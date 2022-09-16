@@ -8,6 +8,21 @@ asking a few questions on a scale of 5, which would help people get a wider pict
 Next comes the task to enlighten their mood by playing games , listening to jokes by bot and at last
 listening to soothing music.
 
+Seeing people busy in the regular hustle and bustle of life and not having enough time to focus on
+one’s mental health was one of the major reasons that motivated us to come up with an idea to build
+a website that could help people to lighten their mood.
+
+
+Techniques used in project modules:
+
+We have used following techniques in given modules:-
+Module 1: HTML5, flask, python
+Module 2: opencv, tensorflow, python, FER
+Module 3: subprocess, random, os
+Module 4: numpy, nltk, random, json, torch, tkinter
+Module 5: sklearn, joblib, numpy, matplotlib
+
+
 
 Architecture Diagram
 
