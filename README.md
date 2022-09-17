@@ -67,12 +67,19 @@ gets 21 loses. This game is deployed using Flask.
 
 Sentiment Recognition (Module 2)
 
+Module 2 (Sentiment Recognition using facial features) uses FER, which is a package which was
+developed in 2013. It had around 28000 labeled images and facial expressions.
+
 Facial Emotion Recognition (FER)
 ![Module 2](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/detected_baby1.JPG)
 ![Module 2](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/detected_ishan.JPG)
 ![Module 2](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/detected_johncena1.JPG)
 ![Module 2](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/detected_kevin.JPG)
 ![Module 2](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/detected_south_actor.JPG)
+
+So the camera takes a
+snip of the user and then processes it further to detect the sentiment. There are seven sentiments
+which are detected [Angry, Disgust, Fear, Happy, Sad, Surprise, Neutral].
 
 Sentiment Recognised (with scores)
 ![Module 2](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/snip_emotion.JPG)
