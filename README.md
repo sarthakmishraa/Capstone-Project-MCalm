@@ -86,13 +86,13 @@ Sentiment Recognised (with scores)
 
 Soothing songs (Module 3)
 
-![Module 3](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/snip_song.JPG)
-
 Module 3 (Playing soothing music using sentiment detected from Module 2) gets the emotion value
 from module 2. There are seven sentiments detected and whichever has the highest score is returned
 from module 2 and is further used to play soothing music. Directories are there for each sentiment
 and music is stored in those paths. So with the help of a subprocess package and a music player,
 songs are played.
+
+![Module 3](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/snip_song.JPG)
 
 Doudou's Chatbot (Module 4)
 
