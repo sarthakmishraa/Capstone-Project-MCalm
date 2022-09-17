@@ -88,7 +88,22 @@ Soothing songs (Module 3)
 
 ![Module 3](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/snip_song.JPG)
 
+Module 3 (Playing soothing music using sentiment detected from Module 2) gets the emotion value
+from module 2. There are seven sentiments detected and whichever has the highest score is returned
+from module 2 and is further used to play soothing music. Directories are there for each sentiment
+and music is stored in those paths. So with the help of a subprocess package and a music player,
+songs are played.
+
 Doudou's Chatbot (Module 4)
+
+Module 4 (Doudou’s chatbot) module was made to make the user feel good by allowing him to chat
+with our chatbot. This is the first time I applied Natural Language Processing into one of my college
+projects and I learned new things. Also I recalled the learnings of my 6th semester from Soft
+Computing about Neural Networks. Like the math behind it, where the purpose was to reduce the
+error and the error is the difference between actual and desired output. It was trained on some
+responses which were in an intents json file. Pytorch was used to build a three layer model. ReLU
+activation function was used after the layers to make the output zero if it gets a negative input else it
+returns the same value. This module works well and was deployed using Flask.
 
 ![Module 4](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/snip_chatbot.JPG)
 
@@ -107,12 +122,6 @@ Game of 21 (Module 1)
 
 Soothing Songs (Module 3)
 ![Module 3](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/snip_songResult.JPG)
-
-Module 3 (Playing soothing music using sentiment detected from Module 2) gets the emotion value
-from module 2. There are seven sentiments detected and whichever has the highest score is returned
-from module 2 and is further used to play soothing music. Directories are there for each sentiment
-and music is stored in those paths. So with the help of a subprocess package and a music player,
-songs are played.
 
 
 Doudou's Chatbot (Module 4)
