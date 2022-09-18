@@ -109,7 +109,18 @@ returns the same value. This module works well and was deployed using Flask.
 
 Psychometric Test (Module 5)
 
+
+This is an implementation of the Big Five Personality test. This test gives you more insight into how
+you react in different situations, which can help you choose an occupation. HTML5, CSS3,
+JavaScript was used to make the web application and the model was trained using keras package.
+
 ![Module 5](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/snip_psychometric_test.JPG)
+
+We used K-Means Clustering as the final layer has five outputs i.e five different kinds of personalities
+(open mindedness, conscientiousness, extraversion, agreeableness, neuroticism). K-Means was used
+as it is a centroid-based algorithm, or a distance-based algorithm, where we calculate the distances to
+assign a point to a cluster. In K-Means, each cluster is associated with a centroid.
+
 ![Module 5](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/snip_psychometric_test2.JPG)
 
 RESULTS
