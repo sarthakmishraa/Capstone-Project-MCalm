@@ -51,6 +51,8 @@ Design Diagram
 
 Home Page
 
+This is the home page of our project, it contains crisp information on what the project is about.
+
 ![Home Page](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/snip_home.JPG)
 ![Home Page](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/snip_home2.JPG)
 ![Home Page](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/snip_home3.JPG)
