@@ -128,6 +128,10 @@ assign a point to a cluster. In K-Means, each cluster is associated with a centr
 RESULTS
 
 Game of 21 (Module 1)
+
+This is the case in which the user is losing because currently the computer has entered numbers till
+20 and now the user has to enter 21, i.e just after entering 21 he/she will lose.
+
 ![Module 1](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/snip_game_of_21_result.JPG)
 ![Module 1](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/snip_game_of_21_result2.JPG)
 ![Module 1](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/snip_game_of_21_result3.JPG)
