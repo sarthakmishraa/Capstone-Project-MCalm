@@ -133,6 +133,9 @@ This is the case in which the user is losing because currently the computer has 
 20 and now the user has to enter 21, i.e just after entering 21 he/she will lose.
 
 ![Module 1](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/snip_game_of_21_result.JPG)
+
+And you can see that after hitting the GO button, Result is displayed as ‘You Lose’.
+
 ![Module 1](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/snip_game_of_21_result2.JPG)
 ![Module 1](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/snip_game_of_21_result3.JPG)
 ![Module 1](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/snip_game_of_21_result4.JPG)
