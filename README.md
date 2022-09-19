@@ -142,8 +142,10 @@ This is the case in which the user is winning because the user entered 15, 16 an
 a computer can win this game unless the user does not comprehend the game pretty well. And now
 the user has to enter the numbers in a way that the computer gets to put 21, i.e just enter numbers till 20.
 
-
 ![Module 1](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/snip_game_of_21_result3.JPG)
+
+And you can see that after hitting the GO button, Result is displayed as ‘You Win!’.
+
 ![Module 1](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/snip_game_of_21_result4.JPG)
 
 Soothing Songs (Module 3)
