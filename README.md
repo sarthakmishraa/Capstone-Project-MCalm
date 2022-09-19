@@ -148,6 +148,12 @@ And you can see that after hitting the GO button, Result is displayed as ‘You 
 
 ![Module 1](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/snip_game_of_21_result4.JPG)
 
+Now it's time to discuss the next segment of this project, which is not necessary to display on UI, but
+is a deciding factor in selecting the song for the soothing song recommendation.
+Sentiment is detected automatically during the execution of the code and out of the seven emotions,
+the emotion having the highest score is awarded the opportunity to select the category of the songs,
+i.e from which directory the song is going to be played.
+
 Soothing Songs (Module 3)
 ![Module 3](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/snip_songResult.JPG)
 
