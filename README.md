@@ -157,6 +157,9 @@ i.e from which directory the song is going to be played.
 Soothing Songs (Module 3)
 ![Module 3](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/snip_songResult.JPG)
 
+This is the case where neutral emotion is the top emotion out of all seven emotions (highlighted in
+yellow font color) with 95% score (marked in a red box). So a song starts playing randomly from a
+neutral directory.
 
 Doudou's Chatbot (Module 4)
 ![Module 4](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/snip_chatbotResult.JPG)
