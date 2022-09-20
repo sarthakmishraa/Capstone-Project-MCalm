@@ -73,6 +73,7 @@ Module 2 (Sentiment Recognition using facial features) uses FER, which is a pack
 developed in 2013. It had around 28000 labeled images and facial expressions.
 
 Facial Emotion Recognition (FER)
+
 ![Module 2](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/detected_baby1.JPG)
 
 ![Module 2](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/detected_ishan.JPG)
