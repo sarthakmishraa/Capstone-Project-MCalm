@@ -168,6 +168,9 @@ Psychometric Test (Module 5)
 ![Module 5](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/snip_psychometricResult.JPG)
 
 Fragrance Blog (Additional)
+
+This is an article on effects fragrance on sentiments
+
 ![Blog](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/snip_frag.JPG)
 ![Blog](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/snip_frag2.JPG)
 ![Blog](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/snip_frag3.JPG)
