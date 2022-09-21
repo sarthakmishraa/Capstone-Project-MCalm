@@ -184,4 +184,12 @@ This is an article on effects fragrance on sentiments
 
 ![Blog](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/snip_frag3.JPG)
 
+### Project Outcome and Applicability
+
+The idea behind M-calm helps to get an understanding for the need of mental health awareness as
+well as the need for an environment where people can come forward and talk about it . M-calm will
+not only burst the bubble of taboo but create a safe ground where people can discuss their mental
+health. The implementation chosen for going down this path is simple and via chatbot and games
+which will help users to ease around and not go through a lot of technicalities.
+
 (MCalm)
