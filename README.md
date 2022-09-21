@@ -1,7 +1,7 @@
 # MCalm
 # Capstone Project DSN-4099
 
-### INTRODUCTION
+## INTRODUCTION
 
 Our project “MCalm” would detect people’s mood by using their facial expressions as well as by
 asking a few questions on a scale of 5, which would help people get a wider picture of their mood.
@@ -13,7 +13,7 @@ one’s mental health was one of the major reasons that motivated us to come up 
 a website that could help people to lighten their mood.
 
 
-### Techniques used in project modules:
+## Techniques used in project modules:
 
 We have used following techniques in given modules:-
 Module 1: HTML5, flask, python
@@ -22,7 +22,7 @@ Module 3: subprocess, random, os
 Module 4: numpy, nltk, random, json, torch, tkinter
 Module 5: sklearn, joblib, numpy, matplotlib
 
-### Project Organisation
+## Project Organisation
 
 ![Project Organisation](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/project_organisation.png)
 
@@ -31,7 +31,7 @@ losing their peace of mind. Either that excel is their wealth or their position 
 aspects of life. In order to overcome this lost peace of mind we have come up with a solution.
 
 
-### Objective
+## Objective
 
 Our main objective here is to decrease the stress or lost piece of mind of people by making an
 integrated website that would tell people about their mood/sentiments either it is happy, sad and
@@ -40,11 +40,11 @@ scale of 5, our next objective is to improve people’s mood by playing a relaxi
 let people have an interaction with a chatbot that would try to lighten people’s mood by telling some
 jokes to them and at last to play some soothing music for the person using the website.
 
-### Architecture Diagram
+## Architecture Diagram
 
 ![Architecture Diagram](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/capstone_review3_arch_diag.JPG)
 
-### Design Diagram
+## Design Diagram
 
 ![Design Diagram](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/design_diag.JPG)
 
@@ -57,7 +57,7 @@ This is the home page of our project, it contains crisp information on what the 
 ![Home Page](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/snip_home2.JPG)
 ![Home Page](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/snip_home3.JPG)
 
-### Methodology and Goal :
+## Methodology and Goal :
 
 #### Game of 21 (Module 1)
 
@@ -130,7 +130,7 @@ assign a point to a cluster. In K-Means, each cluster is associated with a centr
 
 ![Module 5](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/snip_psychometric_test2.JPG)
 
-### RESULTS
+## RESULTS
 
 #### Game of 21 (Module 1)
 
@@ -184,7 +184,7 @@ This is an article on effects fragrance on sentiments
 
 ![Blog](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/snip_frag3.JPG)
 
-### Project Outcome and Applicability
+## Project Outcome and Applicability
 
 The idea behind M-calm helps to get an understanding for the need of mental health awareness as
 well as the need for an environment where people can come forward and talk about it . M-calm will
