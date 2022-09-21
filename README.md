@@ -130,9 +130,9 @@ assign a point to a cluster. In K-Means, each cluster is associated with a centr
 
 ![Module 5](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/snip_psychometric_test2.JPG)
 
-RESULTS
+### RESULTS
 
-Game of 21 (Module 1)
+#### Game of 21 (Module 1)
 
 This is the case in which the user is losing because currently the computer has entered numbers till
 20 and now the user has to enter 21, i.e just after entering 21 he/she will lose.
@@ -159,22 +159,22 @@ Sentiment is detected automatically during the execution of the code and out of 
 the emotion having the highest score is awarded the opportunity to select the category of the songs,
 i.e from which directory the song is going to be played.
 
-Soothing Songs (Module 3)
+#### Soothing Songs (Module 3)
 ![Module 3](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/snip_songResult.JPG)
 
 This is the case where neutral emotion is the top emotion out of all seven emotions (highlighted in
 yellow font color) with 95% score (marked in a red box). So a song starts playing randomly from a
 neutral directory.
 
-Doudou's Chatbot (Module 4)
+#### Doudou's Chatbot (Module 4)
 
 ![Module 4](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/snip_chatbotResult.JPG)
 
-Psychometric Test (Module 5)
+#### Psychometric Test (Module 5)
 
 ![Module 5](https://github.com/sarthakmishraa/Capstone-Project-MCalm/blob/main/static/images/snip_psychometricResult.JPG)
 
-Fragrance Blog (Additional)
+#### Fragrance Blog (Additional)
 
 This is an article on effects fragrance on sentiments
 
