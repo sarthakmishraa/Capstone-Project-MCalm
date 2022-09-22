@@ -209,4 +209,18 @@ this game is to allowing the user to experience the hardship emotional value whi
 people who chose not to give up and the mental health they go through to win in situations they face
 in real life.
 
+The next stage of our application is sentiment analysis using computer vision, this is the place where
+computer vision and intelligence go hand-in hand to give out the message of possibilities we can
+achieve in today’s time. This module not only will detect the sentiment with analysis will also
+contribute to the next module and stage an example of how things can turn around, so the outline for
+implementation is keeping the track of user’s sentiment state and pass the next module the
+information for suggesting the helping hand they can go with to lighten their mood and experience
+the technology advancement there is.
+
+The Modules were achieved by continuous planning of the team and the research for integrating the
+modules with each other. The Team planned for divide and sum-up technique by picking the modules
+for each expertise field for development and fulfilling the project requirements. The guidance from
+our reviewer regarding the human behavior taught us the actual help that we can provide with
+providing awareness.
+
 (MCalm)
