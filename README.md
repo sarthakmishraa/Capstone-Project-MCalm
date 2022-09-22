@@ -186,10 +186,27 @@ This is an article on effects fragrance on sentiments
 
 ## Project Outcome and Applicability
 
+#### Outline
+
 The idea behind M-calm helps to get an understanding for the need of mental health awareness as
 well as the need for an environment where people can come forward and talk about it . M-calm will
 not only burst the bubble of taboo but create a safe ground where people can discuss their mental
 health. The implementation chosen for going down this path is simple and via chatbot and games
 which will help users to ease around and not go through a lot of technicalities.
+
+#### Key implementations outline of the System
+
+M-Calm is developed as a web-application with an idea of allowing each user to access it with ease
+of any device they wish and is available to the respective user. What the team has aimed to achieve is
+an application tested and stands on the idea fulfillment for giving a space to open up to get the
+knowledge as well as to understand the awareness regarding mental health. The gamification of the
+whole method is developed to achieve an interaction with the user, the perspective behind the feature
+of game in the application allows user to go through change of emotions and experience the stages
+one can go through while faces challenges in real time. Proceeding to our first stage and game named
+“the game of 21”, allows user to enter values on alternative turns while playing with computer and
+the one whoever ends on the number of 21 will be achieving win, the outline of implementation for
+this game is to allowing the user to experience the hardship emotional value which is required for
+people who chose not to give up and the mental health they go through to win in situations they face
+in real life.
 
 (MCalm)
