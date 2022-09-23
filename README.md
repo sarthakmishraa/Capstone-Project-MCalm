@@ -225,4 +225,12 @@ providing awareness.
 
 #### Significant project outcomes
 
+The project’s outcomes most importantly contributed to our learnings, as well as understanding the
+need of awareness about mental health, the very idea with which we started our project. The project
+was like a rainbow for us which we thought of as a ray light only. The project is developed and
+capable of rolling out the even more new integrations for implementations inside the project to add
+features which can help the end users as much as they want to explore. There were challenges and
+questions on accuracy of analysis, delivery of desired results and many like these, but each of these
+was overcome by the team planning and communication with the guides and reviewer.
+
 # (MCalm)
