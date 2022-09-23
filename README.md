@@ -235,4 +235,16 @@ was overcome by the team planning and communication with the guides and reviewer
 
 #### Project implementation on real world application
 
+The whole idea behind our project was about people facing real world challenges and our application
+helping to cope with them. The naming of our application, “m-calm” is derived from the medical
+drug used to calm nerves and nervous systems of a human body. Our application aims to help our end
+users in various ways. Our modules aim to provide a helping hand or an insight to the respective user
+who knocked the door for their different specific reason. The game of 21 helps user to determine the
+mental stage as well as take a hand in never giving up , the sentiment analysis not only take an input
+for analysis but also gives calming music advice to the user to help them gain insights for mental
+aware-ness and calming method outside our application also. The dou dou chatbot integration takes a
+step ahead and interacts with user to lighten their mood as well as can help in lifting their mood. The
+stage of implementing real world applications, is where our development stages on point.
+
+
 # (MCalm)
