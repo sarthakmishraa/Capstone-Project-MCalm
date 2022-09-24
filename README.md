@@ -246,5 +246,6 @@ aware-ness and calming method outside our application also. The dou dou chatbot 
 step ahead and interacts with user to lighten their mood as well as can help in lifting their mood. The
 stage of implementing real world applications, is where our development stages on point.
 
+#### Inference
 
 # (MCalm)
