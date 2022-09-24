@@ -248,4 +248,12 @@ stage of implementing real world applications, is where our development stages o
 
 #### Inference
 
+To conclude the whole applicability and implementation stage of our application the team is
+confident to provide more than promised and still giving room for future improvements with an idea
+of helping the community as well as to spread awareness by going hand in hand with the technology.
+When we imply what we learned to help the make the world a better place to live is when our
+learnings were worthy. M-calm implementation give a hands-on experience to users for using the
+application and getting aware, helped as well as get to know about the world of psychological
+understandings.
+
 # (MCalm)
