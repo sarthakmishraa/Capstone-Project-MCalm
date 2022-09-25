@@ -260,5 +260,14 @@ understandings.
 
 #### Outline
 
+If we summarize our journey of developing this application as well as to understand the need of
+getting the awareness of the topic which we picked, will be a long drive in heavy rainfall, we faced
+various questions from insides and from the faculties as well. But what everyone was sure about was
+the idea behind this project. There were times when none of us was sure to go with or not to go with
+various ideas that we had in mind to help the end users for coping up with mental health issue.
+Technology always has more than one fix to single problem, but which one to pick is what a
+developer and practical implementor has to decide. We do have concluding state ready for the
+project, where our project is ready to be used by various users and provide them the knowledge
+which they maybe didn’t knew could help them in real world challenges.
 
 # (MCalm)
