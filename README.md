@@ -256,7 +256,7 @@ learnings were worthy. M-calm implementation give a hands-on experience to users
 application and getting aware, helped as well as get to know about the world of psychological
 understandings.
 
-## Conclusions and limitations
+## Conclusions and Limitations
 
 #### Outline
 
