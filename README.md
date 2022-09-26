@@ -272,4 +272,13 @@ which they maybe didn’t knew could help them in real world challenges.
 
 #### Limitations
 
+The applications has few limitations to overcome, the modules sometimes need a user input to
+provide the help they need without which it might not be possible to help them. The sentiment
+analysis can provide soothing and calming music, help a person to go through at a particular phase of
+time but what it can’t give is correct medical advice for helping the user. The sentiment analysis can
+detect the current mood of user but determining the mental health will need a longer interaction or
+input from them. The dou dou chatbot can lighten up the mood, or provide little jokes for the same, but what it can’t do is to understand a human state of mind and provide the necessary pep talk for
+user. These various limitations can be achieved but few cannot be because in the state of mental
+health issue no machine can be a match for human interaction.
+
 # (MCalm)
