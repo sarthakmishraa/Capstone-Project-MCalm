@@ -296,4 +296,16 @@ prevent to go through this storm.
 
 ## REFERENCES
 
+Soto, C. J. (2018). Big Five personality traits. In M. H. Bornstein, M. E. Arterberry, K. L.
+Fingerman, & J. E. Lansford (Eds.), The SAGE encyclopedia of lifespan human development
+(pp. 240-241). Thousand Oaks, CA: Sage.
+
+Kadohisa M. Effects of odor on emotion, with implications. Front Syst Neurosci. 2013;7:66.
+Published 2013 Oct 10. doi:10.3389/fnsys.2013.00066
+
+Zahara, Lutfiah & Musa, Purnawarman & Prasetyo, Eri & Karim, Irwan & Musa, Saiful.
+(2020). The Facial Emotion Recognition (FER-2013) Dataset for Prediction System of
+Micro-Expressions Face Using the Convolutional Neural Network (CNN) Algorithm based
+Raspberry Pi. 1-9. 10.1109/ICIC50835.2020.9288560.
+
 # (MCalm)
