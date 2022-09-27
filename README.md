@@ -289,4 +289,9 @@ this and if one chooses to use to follow this path there will be always room for
 
 #### Inference:
 
+The M-calm application and team can choose to grow this plant of helping as big as it can be because
+it’s fruit won’t only quench the hunger but also help others to know what is healthy to eat. In simpler
+words, m-calm not only provides help to those who are going through but to also those who can
+prevent to go through this storm.
+
 # (MCalm)
