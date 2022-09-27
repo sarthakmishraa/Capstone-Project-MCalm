@@ -283,4 +283,9 @@ health issue no machine can be a match for human interaction.
 
 #### Future Enhancement:
 
+There is huge room for future enhancements when it comes to m-calm as the idea it follows is
+providing an helping hand, we rigorously worked through the time for developing an application like
+this and if one chooses to use to follow this path there will be always room for improvements.
+
+
 # (MCalm)
